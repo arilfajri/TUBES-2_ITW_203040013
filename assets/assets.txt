@@ -1,0 +1,16 @@
+-bootstrap 4.5:https://getbootstrap.com/docs/4.5/getting-started/introduction/
+-Icon-icon yang saya gunakan bersumber dari:https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+-Sumber Scroll Reveal:https://scrollrevealjs.org/guide/installation.html
+-Font Poppins:https://fonts.google.com/specimen/Poppins?query=Pop
+-Sumber gambar testimonial:
+	https://id.wikipedia.org/wiki/Mark_Zuckerberg
+	https://en.wikipedia.org/wiki/Bill_Gates
+	https://emitennews.com/persoalan-serius-mengadang-menteri-bumn-erick-thohir/
+	https://gaya.tempo.co/read/1179597/pakaian-hotman-paris-serba-mewah-harganya-bisa-mencapai-rp-60-m
+	https://twitter.com/jeffbezos
+	https://simple.wikipedia.org/wiki/Steve_Jobs
+-referensi:
+https://www.youtube.com/watch?v=dgKSqz3it50&t=11127s
+https://www.youtube.com/watch?v=zhllkjYYUVE&t=4731s
+
+	
